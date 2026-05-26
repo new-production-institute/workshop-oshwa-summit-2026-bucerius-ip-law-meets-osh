@@ -58,7 +58,7 @@ Participants understand:
 
 ```text
 doc/
-`-- workshop-oshsummit2026-ip-law-meets-osh-bucerius.pdf
+└── workshop-oshsummit2026-ip-law-meets-osh-bucerius.pdf
 ```
 
 ## Authors
